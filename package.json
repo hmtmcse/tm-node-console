@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/hmtmcse/tm-node-console.git",
   "author": "Touhid Mia <hmtm.cse@gmail.com>",
-  "license": "Apache 2.0"
+  "license": "Apache 2.0",
+  "scripts": {
+    "start": "node file.js"
+  },
+  "bin": {
+    "tm": "./bin/tm"
+  }
 }
