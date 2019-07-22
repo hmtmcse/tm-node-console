@@ -1,0 +1,9 @@
+{
+  "name": "tm-node-console",
+  "version": "1.0.0",
+  "description": "Node Console for Help Node Project",
+  "main": "index.js",
+  "repository": "https://github.com/hmtmcse/tm-node-console.git",
+  "author": "Touhid Mia <hmtm.cse@gmail.com>",
+  "license": "Apache 2.0"
+}
